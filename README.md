@@ -1,4 +1,4 @@
-# Projeto3_Prever_Satisfa-o_dos_Clientes
+# Projeto3_Prever_Satisfação_dos_Clientes
 Repositório do Projeto sobre Previsão do Nível de Satisfação dos Clientes do Santander.
 
 A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatisfeitos cancelam seus serviços e raramente expressam sua insatisfação antes de sair. Clientes satisfeitos, por outro lado, se tornam defensores da marca!
